@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;800&family=Roboto&display=swap');
+body{
+    background-color: burlywood;
+    
+    max-width:1000px;
+    margin: 0 auto;
+}
+
+.first-p{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 30px;
+    font-weight:400;
+}
+.last-p{
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+    font-weight:400; 
+}
+
+img {
+    object-fit: contain;
+    max-width: 100%;
+    max-height: 100%;
+    width: auto;
+    height: auto;
+ }
+ span{
+    color: blueviolet;
+ }
